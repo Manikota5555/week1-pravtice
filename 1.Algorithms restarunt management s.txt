@@ -1,0 +1,23 @@
+1.Algorithms restarunt management system:
+ 
+   a.Order management algorithm:
+   -->order take from the customer on note pad.
+   -->order mangement give order to the cheaf.
+   -->after few minutes order take from the cheaf.
+   -->order serve to the customers.
+   -->again ask want any else then take the bill to the customer.
+
+   b.Kitchen mangement system:
+   -->orders takes from customer or order mangement.
+   -->Inform to the cheaf to make the order.
+   -->once check order to prepare. 
+   -->start food preparation of the order. 
+   -->Cheaf gives to order mangement to serve the customer.
+
+   c.Employee mangement system:
+   -->create a database to store employee information.
+   -->By the information HR or manager to search.
+   -->Employee data and senstive information kept confidential
+   -->create a work flow to employee.
+   -->such as benifits,enrollment and vacation requests.
+   -->arrange the meetings the needs of organization and employees.
