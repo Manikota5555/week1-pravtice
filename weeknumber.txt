@@ -1,0 +1,39 @@
+weeknumber
+
+begin
+ numeric weeknum
+ print("Enter the weeknum")
+ input weeknum
+ if(weeknum==1)
+ {
+   print(weeknum,"is Monday");
+ }
+ else if(weeknum==2)
+ {
+   print(weeknum,"is Tuesday");
+ }
+ else if(weeknum==3)
+ {
+   print(weeknum,"is Wednesday");
+ }
+ else if(weeknum==4)
+ {
+   print(weeknum,"is Thursday");
+ }
+ else if(weeknum==5)
+ {
+   print(weeknum,"is Friday");
+ }
+ else if(weeknum==6)
+ {
+   print(weeknum,"is Saturday");
+ }
+ else if(weeknum==7)
+ {
+   print(weeknum,"is Sunday");
+ }
+ else
+ {
+   print(weeknum,"is Invalid week number");
+ }
+end

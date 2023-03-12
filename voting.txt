@@ -1,0 +1,31 @@
+-->elgible or not elgible
+
+begin
+numeric age
+print("enter age")
+input age
+if(age>=18)
+{
+print("not eligible for voting")
+}
+else
+{
+print("eligible for voting")
+}
+end
+
+
+-->even or odd
+
+begin
+input num1
+print("enter the number")
+if (num/2=0)
+{
+print("enter it is even num")
+}
+else
+{
+print("enter it is odd")
+}
+end
